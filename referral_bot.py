@@ -7,8 +7,8 @@ from flask import Flask
 from threading import Thread
 
 # ====== إعدادات التليجرام (قم بتعديلها) ======
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # استبدل هذا بالتوكن الخاص ببوتك
-TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"          # استبدل هذا بالـ Chat ID الخاص بك
+TELEGRAM_BOT_TOKEN = "1737913043:AAFpsmTVhxAqx3QAMqGbC_z-hgKa-Cg1B3k"  # استبدل هذا بالتوكن الخاص ببوتك
+TELEGRAM_CHAT_ID = "1058693434"          # استبدل هذا بالـ Chat ID الخاص بك
 # ===========================================
 
 # إعداد تطبيق Flask بسيط لإبقاء الخدمة نشطة على منصات مثل Render
